@@ -1,0 +1,22 @@
+.css-in-js-row {
+    margin: 0 0 0.5rem 0;
+    display: flex;
+}
+
+.css-in-js-tile {
+    flex: 1;
+    background: grey;
+    color: white;
+    padding: 1rem;
+    font-size: 1.875rem;
+    font-weight: bold;
+    margin-right: .5rem;
+}
+
+.exact {
+    background: #6aaa64;
+}
+
+.in-word {
+    background: #c9b458;
+}
